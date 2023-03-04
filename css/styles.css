@@ -620,10 +620,8 @@ a{
     font-size: 13px;
     line-height: 45px;
 }
-/* Footer css End */         
-
-.see{
-    height: 200px;
-    background: rgba(0, 0, 0, 0.2);
+.footer-row-two p span{
+    color:#5bc5f4;
 }
+/* Footer css End */
 
